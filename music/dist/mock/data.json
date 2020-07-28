@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "吹梦到西洲",
+        "album": "吹梦到西洲",
+        "singer": "恋恋故人难",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "无人之岛",
+        "album": "没有发生的爱情",
+        "singer": "任然",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "爱的代价",
+        "album": "顺时针",
+        "singer": "梁咏琪",
+        "duration": 214,
+        "isLike": false
+    }
+
+]
